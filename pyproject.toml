@@ -13,6 +13,7 @@ dependencies = [
     "langchain-community>=0.4.1",
     "langchain-groq>=1.1.2",
     "langchain-openai>=1.1.12",
+    "openpyxl>=3.1.5",
     "pandas==2.3.0",
     "pdfminer>=20191125",
     "pymupdf>=1.27.2.3",
